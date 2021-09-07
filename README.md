@@ -1,2 +1,2 @@
 # HELLOJAVA
-My Java Hello world code
+Remember always say Hello world no matter what level you are
